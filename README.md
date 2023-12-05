@@ -15,7 +15,7 @@ I worked on this using the softwares:
 ## The Model
 How to make a model, 
 
-```
+```js
 const mongoose = require('mongoose');
 ```
 
