@@ -1,7 +1,7 @@
 # arias-manga
 Manga on NodeJS with Express and Mongo
 
-# THe Steps I followed
+# The Steps I followed
 I worked on this using the softwares:
 * VSCode
 * Postman
